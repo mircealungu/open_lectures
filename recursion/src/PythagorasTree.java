@@ -89,6 +89,7 @@ public class PythagorasTree extends JPanel {
             f.setLocationRelativeTo(null);
             f.setVisible(true);
         });
+
     }
 }
 
